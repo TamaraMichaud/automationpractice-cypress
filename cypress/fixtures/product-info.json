@@ -1,0 +1,23 @@
+{
+	"products" : [
+						{ "productType" : "dress",
+						  "productList" : [ { "name" : "Printed Chiffon Dress",
+													 "size" : "M",
+													 "price" : "$16.40"
+												  }, 
+												  {
+													"name" : "",
+													"size" : "",
+													"price" : "" } 
+												]
+						},
+						{ "productType" : "shoes" ,
+						  "productList" : [ { "name" : "some shoe"}, 
+												  {}, {} 
+												] 
+                  },
+						{ "etc" : [] 
+						}
+					  ]
+
+}
